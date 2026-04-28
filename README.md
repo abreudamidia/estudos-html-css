@@ -1,6 +1,7 @@
 
-# Estudos de HTML5 e CSS3 - Módulo 1
+# Estudos de HTML5 e CSS3 
 
+Módulo 1-
 Este repositório contém todos os projetos, exercícios e desafios que desenvolvi durante o **Módulo 1** do curso de HTML5 e CSS3 (Prof. Gustavo Guanabara).
 
 ## 🚀 O que aprendi neste módulo
@@ -10,12 +11,14 @@ Durante estas aulas, foquei na base fundamental do desenvolvimento web, incluind
 - **Links e Navegação**: Criação de sistemas de navegação entre múltiplas páginas internas e links externos.
 - **Introdução ao CSS3**: Aplicação de estilos internos e externos, além de conceitos básicos de tipografia e cores.
 
+Módulo 1-
+Este repositório contém todos os projetos, exercícios e desafios que venho desenvolvendo durante o **Módulo 2** do curso de HTML5 e CSS3 (Prof. Gustavo Guanabara).
+
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
 - CSS3 (Estilos Locais e Externos)
 
-## 📁 Desafio em Destaque
-Um dos principais desafios foi a criação de uma vitrine de vídeos com botões de navegação e fundo personalizado para melhor contraste.
+
 
 ---
 *Estudante de Engenharia de Software - Focando em Python e Desenvolvimento Web.*
