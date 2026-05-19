@@ -23,3 +23,6 @@ Este repositório contém todos os projetos, exercícios e desafios que venho de
 ---
 *Estudante de Engenharia de Software - Focando em Python e Desenvolvimento Web.*
 
+
+Exercício site curiosidades da internet
+<a href='https://daniloabreudev.github.io/estudos-html-css/modulo2/desafio010/android.html'>Executar o site curiosidades do android</a>
