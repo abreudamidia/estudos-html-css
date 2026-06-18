@@ -7,9 +7,16 @@ span#burguer{
 menu{
     display: block;
 }
-menu > ul > li{
-    display: inline-block;
-}
+menu > ul {
+        display: flex;
+        justify-content: center; /* Centraliza o menu no cabeçalho */
+        background-color: rgb(89, 86, 86);
+    }
+
+    menu > ul > li > a {
+        border-top: none; 
+        padding: 10px 20px; 
+    }
 main{
     width: 768px;
 }
