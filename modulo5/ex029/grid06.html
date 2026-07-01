@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gid-areas</title>
+    <style>
+        div.container{
+            display: grid;
+            grid-template-columns: 1fr 2fr 1fr;
+            grid-template-rows: 100px 100px 100px;
+            align-items: center;
+            align-content: center;
+            justify-items:center ;
+        }
+        div.topo{
+            background-color: blue;
+            grid-row-start: 1;
+            grid-row-end: 3;
+            grid-column-start: 1;
+            grid-column-end: ;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="topo">topo</div>
+        <div class="menu">menu</div>
+        <div class="principal">principal</div>
+        <div class="secundario">secundario</div>
+        <div class="rodape">rodape</div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</body>
+</html>
